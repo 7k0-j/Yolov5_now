@@ -1,0 +1,13 @@
+#mydata
+#train/val/test set
+
+#task1
+train: /media/data/qkl/25000_random/task1/image_path/train.txt
+val: /media/data/qkl/25000_random/task1/image_path/val.txt
+test: /media/data/qkl/25000_random/task1/image_path/test.txt
+
+#number of class
+nc: 1
+
+#class name
+names: ['others']
